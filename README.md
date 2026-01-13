@@ -94,13 +94,13 @@ You can customize the fire effect by modifying the constants and algorithm in `s
 
 | Constant           | Description                    | Default |
 |--------------------|--------------------------------|---------|
-| `SCREEN_WIDTH`     | Window width in pixels         | 800     |
-| `SCREEN_HEIGHT`    | Window height in pixels        | 400     |
-| `MAP_ROWS`         | Number of vertical cells       | 80      |
-| `MAP_COLUMNS`      | Number of horizontal cells     | 100     |
-| `TARGET_FPS`       | Target frames per second       | 24.0    |
-| `MAX_INTENSITY_LEVEL` | Maximum fire intensity      | 36      |
-| `DEBUG_FONT_PATH`  | TTF debug font path            | 36      |
+| `SCREEN_WIDTH`     | Window width in pixels         | 800                             |
+| `SCREEN_HEIGHT`    | Window height in pixels        | 400                             |
+| `MAP_ROWS`         | Number of vertical cells       | 80                              |
+| `MAP_COLUMNS`      | Number of horizontal cells     | 100                             |
+| `TARGET_FPS`       | Target frames per second       | 24.0                            |
+| `MAX_INTENSITY_LEVEL` | Maximum fire intensity      | 36                              |
+| `DEBUG_FONT_PATH`  | TTF debug font path            | /assets/fonts/YOU_FONT.ttf      |
 
 ### Fire Propagation Settings
 

@@ -1,5 +1,9 @@
+# Asset files
+assets/
+
 # Build files
 build/
 
 # Executable
+doom_fire
 main
