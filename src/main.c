@@ -13,7 +13,7 @@
 #define MAP_COLUMNS         100
 #define TARGET_FPS          24.0
 #define MAX_INTENSITY_LEVEL 36
-#define DEBUG_FONT_PATH     "./assets/fonts/MTF Chubb.ttf"
+#define DEBUG_FONT_PATH     "./assets/fonts/YOUR_FONT.ttf"
 //#define DEBUG
 
 typedef struct {

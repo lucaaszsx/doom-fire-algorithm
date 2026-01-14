@@ -100,7 +100,7 @@ You can customize the fire effect by modifying the constants and algorithm in `s
 | `MAP_COLUMNS`      | Number of horizontal cells     | 100                             |
 | `TARGET_FPS`       | Target frames per second       | 24.0                            |
 | `MAX_INTENSITY_LEVEL` | Maximum fire intensity      | 36                              |
-| `DEBUG_FONT_PATH`  | TTF debug font path            | /assets/fonts/YOU_FONT.ttf      |
+| `DEBUG_FONT_PATH`  | TTF debug font path            | /assets/fonts/YOUR_FONT.ttf     |
 
 ### Fire Propagation Settings
 
@@ -153,8 +153,3 @@ See **[LICENSE](./LICENSE)** for full license text.
 - Original DOOM fire effect by **id Software**
 - Algorithm explanation by **Fabien Sanglard**
 - Inspired by the [DOOM Fire PSX](https://fabiensanglard.net/doom_fire_psx/) article
-
----
-
-## 📸 Preview
-
