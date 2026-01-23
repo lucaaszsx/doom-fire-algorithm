@@ -1,6 +1,10 @@
 # Build files
 build/
 
+# Assets
+assets/fonts/*
+!assets/fonts/.gitkeep
+
 # Executable
 doom_fire
 main
